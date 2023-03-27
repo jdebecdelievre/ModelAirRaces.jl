@@ -3,6 +3,17 @@ uuid = "e42d41ef-a387-496c-ae09-8d4b0687c38e"
 authors = ["Jean de Becdelievre"]
 version = "1.0.0-DEV"
 
+[deps]
+DiffResults = "163ba53b-c6d8-5494-b064-1a9d43ac40c5"
+FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+LatinHypercubeSampling = "a5e1c1ea-c99a-51d3-a14d-a9a37257b02d"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OptimUtils = "f0bb934f-c18d-4df9-80c8-5120effcea86"
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
 [compat]
 julia = "1"
 
